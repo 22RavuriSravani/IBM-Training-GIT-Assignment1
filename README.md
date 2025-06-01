@@ -69,8 +69,25 @@ git commit -m "Removed BOOTSTRAP ASSIGNMENT 1.pdf"
 git push
 ```
 
+### 9. Revert a Commit (Undo Changes)
+
+```bash
+git revert 4922ec7b19a8ce03f93331e41e55b064e95834bc
+```
+
 ---
 
+## 📋 Summary
+1. git init — Initialize a new Git repository
+2. git add, git commit — Stage changes and commit them to the repository
+3. git mv, git rm — Move/rename files and remove/delete files
+4. git push, git pull — Push commits to and pull updates from the remote repository
+5. git branch -M — Rename the current branch (e.g., to main)
+6. mkdir — Create a new directory/folder
+7. nano — Create or edit files directly from the terminal
+8. git revert — Create a new commit that undoes changes from a previous commit
+
+---
 ## 🗂 Files in the Repository
 
 - `main.html` - The main HTML structure  
